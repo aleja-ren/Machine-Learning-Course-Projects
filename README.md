@@ -24,7 +24,9 @@ This repository contains a collection of projects developed during the 2023-2024
 
 ## Usage
 Feel free to explore, test, or adapt the code for educational purposes.
-`git clone https://github.com/aleja-ren/Machine-Learning-Course-Projects.git`
+```bash
+git clone https://github.com/aleja-ren/Machine-Learning-Course-Projects.git
+```
 
 ## Author
 Alejandra Gavino-Dias González (alejandra.gavino-dias@estudiantes.uva.es) 
